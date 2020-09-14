@@ -1,4 +1,5 @@
 # 信息管理web端   
+# 对应服务端（https://github.com/Angel-HW/admin_serve）
 ### 2020.8.24   
 * 问题1：在浏览器输入`localhost:3000`不能访问数据接口，输入`ip+端口`可以
 * 解决：baseUrl设置时`http`写成`https`,改过来即可
